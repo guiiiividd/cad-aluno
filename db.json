@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Guilherme",
+      "course": "Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "id": "2",
+      "name": "Ismael",
+      "course": "Mecatrônica Industrial"
+    },
+    {
+      "id": "3",
+      "name": "Tomas",
+      "course": "Gestão da Tecnologia de Informação"
+    },
+    {
+      "id": "4",
+      "name": "1",
+      "course": "1"
+    }
+  ]
+}
