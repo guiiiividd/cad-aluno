@@ -1,24 +1,24 @@
 {
   "students": [
     {
-      "id": "1",
-      "name": "Guilherme",
-      "course": "Análise e Desenvolvimento de Sistemas"
-    },
-    {
-      "id": "2",
-      "name": "Ismael",
-      "course": "Mecatrônica Industrial"
-    },
-    {
-      "id": "3",
+      "id": 1,
       "name": "Tomas",
       "course": "Gestão da Tecnologia de Informação"
     },
     {
-      "id": "4",
-      "name": "1",
-      "course": "1"
+      "id": 2,
+      "name": "Guilherme Vidal",
+      "course": "Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "id": 3,
+      "name": "Ismael Silva",
+      "course": "Mecatrônica Industrial"
+    },
+    {
+      "id": 4,
+      "name": "Igor",
+      "course": "Computação"
     }
   ]
 }
